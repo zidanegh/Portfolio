@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Booki",
+      "description": "Ce projet était mon tout premier, grâce à lui j'ai pu comprendre les bases de l'HTML et du CSS",
+      "tags": ["HTML", "CSS"],
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/booki.webp",
+      "alt": "Image montrant le site Booki",
+      "gitHub": "https://github.com/zidanegh/booki.git"
+    },
+    {
+      "id": 2,
+      "name": "Ohmyfood",
+      "description": "Pour ce projet j'ai du réaliser un site prototype pour un des réservation de restaurant",
+      "tags": ["HTML", "CSS", "SASS"],
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/ohmyfood.webp",
+      "alt": "Image montrant le site Ohmyfood",
+      "gitHub": "https://github.com/zidanegh/ohmyfood.git"
+    },
+    {
+      "id": 3,
+      "name": "Sophie Bluel",
+      "description": "Pour ce projet j'ai du réaliser pour une architecte en lui implémentant des calls api pour display et delete ses projets",
+      "tags": ["JavaScript"],
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/sophiebluel.webp",
+      "alt": "Image montrant le site Sophie_Bluel",
+      "gitHub": "https://github.com/zidanegh/sophie_bluel.git"
+    },
+    {
+      "id": 4,
+      "name": "Kasa",
+      "description": "Pour ce projet j'ai du réaliser un site de location immobilier grace à react qui est aussi ma première fois avec ce framework",
+      "tags": ["React", "SASS"],
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/kasa.webp",
+      "alt": "Image montrant le site Kasa",
+      "gitHub": "https://github.com/zidanegh/Kasa.git"
+    },
+    {
+      "id": 5,
+      "name": "Ninacarducci",
+      "description": "Pour ce projet j'ai eu le droit à l'optimisation SEO et des Performances du site ce qui m'a donner pas mal de fil à retordre mais j'ai réussi",
+      "tags": [""],
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/ninacarducci.",
+      "alt": "Image montrant le site Ninacarducci",
+      "gitHub": "https://github.com/zidanegh/ninacarducci.git"
+    },
+    {
+      "id": 6,
+      "name": "724events",
+      "description": "Pour ce projet j'ai dû débugger tout un site sous react",
+      "tags": ["React"],
+      "image": "../public/724events.webp",
+      "alt": "Image montrant le site 724events",
+      "gitHub": "https://github.com/zidanegh/P10-724events.git"
+    },
+    {
+      "id": 7,
+      "name": "argentBank",
+      "description": "Pour ce projet j'ai du faire le site en site one page grace à react et réaliser un le systéme de login et route du site",
+      "tags": ["React", "Redux"],
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/argentbank.webp",
+      "alt": "Image montrant le site argent bank",
+      "gitHub": "https://github.com/zidanegh/P11-argent-bank.git"
+    }
+  ],
+  "bigprojects": [
+    {
+      "id": 1,
+      "name": "Sophie Bluel",
+      "description": "Pour ce projet j'ai du réaliser pour une architecte en lui implémentant des calls api pour display et delete ses projets",
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/sophiebluel.webp",
+      "alt": "Image montrant le site Sophie_Bluel",
+      "gitHub": "https://github.com/zidanegh/sophie_bluel.git"
+    },
+    {
+      "id": 2,
+      "name": "Kasa",
+      "description": "Pour ce projet j'ai du réaliser un site de location immobilier grace à react qui est aussi ma première fois avec ce framework",
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/kasa.webp",
+      "alt": "Image montrant le site Kasa",
+      "gitHub": "https://github.com/zidanegh/Kasa.git"
+    },
+    {
+      "id": 3,
+      "name": "argentBank",
+      "description": "Pour ce projet j'ai du faire le site en site one page grace à react et réaliser un le systéme de login et route du site",
+      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/argentbank.webp",
+      "alt": "Image montrant le site argent bank",
+      "gitHub": "https://github.com/zidanegh/P11-argent-bank.git"
+    }
+  ],
+  "logos": [
+    { "id": 1, "logoName": "HTML", "LogoChemin": "fa-brands fa-html5" },
+    { "id": 2, "logoName": "CSS", "LogoChemin": "fa-brands fa-css3-alt" },
+    { "id": 3, "logoName": "SASS", "LogoChemin": "fa-brands fa-sass" },
+    { "id": 4, "logoName": "JavaScript", "LogoChemin": "fa-brands fa-js" },
+    { "id": 5, "logoName": "React", "LogoChemin": "fa-brands fa-react" }
+  ]
+}
