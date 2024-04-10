@@ -6,10 +6,6 @@ import { chosenLogoSlice } from "../store/store";
 export default function Logo({ Click }) {
   const logos = data.logos;
   const dispatch = useDispatch();
-  const reduxLogo = logos.find((logo) => logo.logoName === "Redux");
-  const GlobeLogo = logos.find(
-    (logo) => logo.logoGlobe === "fa-solid fa-globe"
-  );
   const chosenLogo = useSelector((state) => state.chosenLogo);
   const [stringChosenLogo, setStringChosenLogo] = useState(
     chosenLogo.chosenLogo
@@ -52,7 +48,7 @@ export default function Logo({ Click }) {
         ></i>
       ))}
       <img
-        src="./src/assets/logo/logoRedux.png"
+        src="logoRedux.png"
         alt="logo redux"
         className={`logoRedux ${
           stringChosenLogo === "Redux" ? "" : "greyscale"
