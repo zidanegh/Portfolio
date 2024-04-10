@@ -50,7 +50,7 @@
       "name": "724events",
       "description": "Pour ce projet j'ai dû débugger tout un site sous react",
       "tags": ["React"],
-      "image": "https://raw.githubusercontent.com/zidanegh/P12-portfolio/main/src/assets/img_preview_projet/724events.webp",
+      "image": "https://raw.githubusercontent.com/zidanegh/Portfolio/main/src/assets/img_preview_projet/724events.webp",
       "alt": "Image montrant le site 724events",
       "gitHub": "https://github.com/zidanegh/P10-724events.git"
     },
